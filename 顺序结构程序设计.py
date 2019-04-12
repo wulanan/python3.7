@@ -1,0 +1,10 @@
+x=float(input('请输入第1个数：'))
+y=float(input('请输入第2个数：'))
+z=float(input('请输入第3个数：'))
+sum1=x+y+z
+average=sum1/3
+print("你输入的第1个数是：",x)
+print("你输入的第2个数是：",y)
+print("你输入的第3个数是：",z)
+print("你输入的3个数之和为：",sum1)
+print("你输入的3个数的均值为：",average)
